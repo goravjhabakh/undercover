@@ -1,0 +1,28 @@
+[
+  { "civilianWord": "Coffee", "undercoverWord": "Tea", "category": "Food" },
+  {
+    "civilianWord": "Car",
+    "undercoverWord": "Motorcycle",
+    "category": "Transport"
+  },
+  { "civilianWord": "Beach", "undercoverWord": "Pool", "category": "Place" },
+  { "civilianWord": "Dog", "undercoverWord": "Wolf", "category": "Animal" },
+  { "civilianWord": "Sun", "undercoverWord": "Moon", "category": "Nature" },
+  { "civilianWord": "Apple", "undercoverWord": "Orange", "category": "Fruit" },
+  {
+    "civilianWord": "Pen",
+    "undercoverWord": "Pencil",
+    "category": "Stationery"
+  },
+  { "civilianWord": "Ship", "undercoverWord": "Boat", "category": "Transport" },
+  {
+    "civilianWord": "Computer",
+    "undercoverWord": "Laptop",
+    "category": "Tech"
+  },
+  {
+    "civilianWord": "School",
+    "undercoverWord": "University",
+    "category": "Place"
+  }
+]
